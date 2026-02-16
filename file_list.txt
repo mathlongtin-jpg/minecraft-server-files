@@ -1,6 +1,9 @@
+mods/backpacked-fabric-1.21.11-3.0.3.jar 
 mods/balm-fabric-1.21.11-21.11.6.jar 
+mods/configured-fabric-1.21.11-2.7.4.jar 
 mods/entityculling-fabric-1.9.5-mc1.21.11.jar 
 mods/fabric-api-0.141.1+1.21.11.jar 
+mods/framework-fabric-1.21.11-0.13.11.jar 
 mods/ImmediatelyFast-Fabric-1.14.1+1.21.11.jar 
 mods/iris-fabric-1.10.4+mc1.21.11.jar 
 mods/justzoom_fabric_2.1.3_MC_1.21.11.jar 
