@@ -11,6 +11,7 @@ mods/resourcelibrary-fabric-1.21.11-2.10.0.jar
 mods/resource_backpacks-fabric-1.21.11-1.4.0.jar 
 mods/sodium-extra-fabric-0.8.3+mc1.21.11.jar 
 mods/sodium-fabric-0.8.2+mc1.21.11.jar 
+mods/voicechat-fabric-1.21.11-2.6.12.jar 
 mods/voxy-0.2.9-alpha-1.21.11.jar 
 mods/waystones-fabric-1.21.11-21.11.4.jar 
 resourcepacks/VanillaTweaks_r184514_MC1.21.x.zip 
